@@ -45,7 +45,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Green;
+            this.button1.BackColor = System.Drawing.Color.LightSeaGreen;
             this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button1.Location = new System.Drawing.Point(277, 181);
             this.button1.Name = "button1";
